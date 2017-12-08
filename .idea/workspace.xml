@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d52cbb26-42d7-4f29-9248-0b9363b1e9ea" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/optimization/Checkpointing.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/ClassicalAlgorithm/Demo10_TSP.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/classicalAlgorithm/Demo10_TSP.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/ClassicalAlgorithm/Demo11_Krushal.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/classicalAlgorithm/Demo11_Krushal.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/ClassicalAlgorithm/Demo12_Animal_Distances.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/classicalAlgorithm/Demo12_Animal_Distances.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/ClassicalAlgorithm/Demo9_dijkstra.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/classicalAlgorithm/Demo9_dijkstra.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo1_pageRank.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo1_pageRank.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo2.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo2.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo3_create.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo3_create.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo4_Pregel.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo4_Pregel.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo5_TriangleRelation.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo5_TriangleRelation.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo6_ShortestPaths.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo6_ShortestPaths.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo7_connectedComponents.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo7_connectedComponents.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo8_LPA.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo8_LPA.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Gexf.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Gexf.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/ClusteringCoefficient.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/IndexedRDDCommonAPI.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/IndexedRDDCommonAPI.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/Isomorphism.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ReadRDF.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/ReadRDF.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/mageGraph.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/MageGraph.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/removeSingleton.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/RemoveSingleton.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/GraphX2KnnLPA.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/GraphX2KnnLPA.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/Graphx2LogisticRegression.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/Graphx2LogisticRegression.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/LAD2ML.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/LAD2ML.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/PIC.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/PIC.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/SVDPP.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/SVDPP.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/graphX2KNN.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/graphX2KNN.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/kaggle/egonet.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/kaggle/Egonet.scala" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/main/test.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/main/Test.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,45 +42,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="removeSingleton.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/removeSingleton.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-              <folding>
-                <element signature="e#49#93#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadRDF.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ReadRDF.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-              <folding>
-                <element signature="e#49#106#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IndexedRDDCommonAPI.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/IndexedRDDCommonAPI.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/IndexedRDDCommonAPI.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="397">
               <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
@@ -65,7 +55,7 @@
         </entry>
       </file>
       <file leaf-file-name="Isomorphism.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/Isomorphism.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="34" column="66" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="66" />
@@ -77,7 +67,7 @@
         </entry>
       </file>
       <file leaf-file-name="SVDPP.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/SVDPP.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/SVDPP.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="29" />
@@ -86,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClusteringCoefficient.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala">
+      <file leaf-file-name="ClusteringCoefficient.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/ClusteringCoefficient.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+            <state relative-caret-position="108">
+              <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
               <folding>
                 <element signature="e#49#110#0" expanded="true" />
               </folding>
@@ -98,22 +88,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KeySerializer.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/amplab/spark-indexedrdd/0.4.0/spark-indexedrdd-0.4.0.jar!/edu/berkeley/cs/amplab/spark/indexedrdd/KeySerializer.class">
+      <file leaf-file-name="Demo5_TriangleRelation.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo5_TriangleRelation.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="14" column="94" lean-forward="true" selection-start-line="14" selection-start-column="94" selection-end-line="14" selection-end-column="94" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexedRDD.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/amplab/spark-indexedrdd/0.4.0/spark-indexedrdd-0.4.0.jar!/edu/berkeley/cs/amplab/spark/indexedrdd/IndexedRDD.class">
+      <file leaf-file-name="Demo7_connectedComponents.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo7_connectedComponents.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="7" lean-forward="false" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            <state relative-caret-position="289">
+              <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding>
+                <element signature="e#38#123#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo4_Pregel.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo4_Pregel.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/main/Test.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-674">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <element signature="e#33#72#0" expanded="true" />
+                <element signature="e#309#4695#1" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Checkpointing.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/optimization/Checkpointing.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="24" column="58" lean-forward="false" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+              <folding>
+                <element signature="e#41#85#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,7 +148,7 @@
       <file leaf-file-name="SparkContext.scala" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.3/spark-core_2.10-1.6.3-sources.jar!/org/apache/spark/SparkContext.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="206">
               <caret line="387" column="89" lean-forward="false" selection-start-line="387" selection-start-column="85" selection-end-line="387" selection-end-column="89" />
               <folding />
             </state>
@@ -158,10 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/Data/input" />
-        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/main/Prege10.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/main/SparkSession.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/main/SparkContext.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/main/Singleton.java" />
         <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/main/test.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/main/Demo3.scala" />
@@ -207,6 +230,12 @@
         <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/IndexedRDDCommonAPI.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo7_connectedComponents.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo4_Pregel.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo4_Pregel.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/main/Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo7_connectedComponents.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/optimization/Checkpointing.scala" />
       </list>
     </option>
   </component>
@@ -310,16 +339,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="DefectGraphOperation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="GraphX2Ml" type="462c0819:PsiDirectoryNode" />
+              <item name="commonAPI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
@@ -375,11 +395,11 @@
     <configuration name="ClusteringCoefficient" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.training.spark.DefectGraphOperation.*" />
+          <option name="PATTERN" value="org.training.spark.defectGraphOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.training.spark.DefectGraphOperation.ClusteringCoefficient" />
+      <option name="MAIN_CLASS_NAME" value="org.training.spark.defectGraphOperation.ClusteringCoefficient" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -394,7 +414,7 @@
     <configuration name="IndexedRDDApi" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.training.spark.DefectGraphOperation.*" />
+          <option name="PATTERN" value="org.training.spark.defectGraphOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,11 +433,11 @@
     <configuration name="Isomorphism" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.training.spark.DefectGraphOperation.*" />
+          <option name="PATTERN" value="org.training.spark.defectGraphOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.training.spark.DefectGraphOperation.Isomorphism" />
+      <option name="MAIN_CLASS_NAME" value="org.training.spark.defectGraphOperation.Isomorphism" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -432,11 +452,11 @@
     <configuration name="ReadRDF" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.training.spark.DefectGraphOperation.*" />
+          <option name="PATTERN" value="org.training.spark.defectGraphOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.training.spark.DefectGraphOperation.ReadRDF" />
+      <option name="MAIN_CLASS_NAME" value="org.training.spark.defectGraphOperation.ReadRDF" />
       <option name="VM_PARAMETERS" value="-Xms512m -Xmx4096m -XX:MaxPermSize=512m -XX:ReservedCodeCacheSize=225m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -532,11 +552,11 @@
     <configuration name="mageGraph" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.training.spark.DefectGraphOperation.*" />
+          <option name="PATTERN" value="org.training.spark.defectGraphOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.training.spark.DefectGraphOperation.mageGraph" />
+      <option name="MAIN_CLASS_NAME" value="org.training.spark.defectGraphOperation.MageGraph" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -618,15 +638,16 @@
       <workItem from="1512353650069" duration="17896000" />
       <workItem from="1512440262398" duration="34000" />
       <workItem from="1512527577978" duration="27075000" />
-      <workItem from="1512701486981" duration="4485000" />
+      <workItem from="1512701486981" duration="8514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218880000" />
+    <option name="totallyTimeSpent" value="222909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -638,11 +659,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28225806" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33509833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.60645163" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60645163" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21406959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21406959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -669,7 +690,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/graphX2KNN.scala</url>
+          <url>file://$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/graphX2KNN.scala</url>
           <line>79</line>
           <properties />
           <option name="timeStamp" value="6" />
@@ -684,20 +705,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/main/test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2748">
-          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/main/Demo1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/main/Demo2.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -712,7 +719,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Gexf.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Gexf.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
@@ -726,56 +733,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/ClassicalAlgorithm/Demo11_Krushal.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/classicalAlgorithm/Demo11_Krushal.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/ClassicalAlgorithm/Demo10_TSP.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/classicalAlgorithm/Demo10_TSP.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/ClassicalAlgorithm/Demo9_dijkstra.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/classicalAlgorithm/Demo9_dijkstra.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo7_connectedComponents.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo6_ShortestPaths.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo6_ShortestPaths.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo4_Pregel.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo5_TriangleRelation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="14" column="94" lean-forward="true" selection-start-line="14" selection-start-column="94" selection-end-line="14" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/ClassicalAlgorithm/Demo12_Animal_Distances.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/classicalAlgorithm/Demo12_Animal_Distances.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
@@ -818,7 +804,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/LAD2ML.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/LAD2ML.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-221">
           <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
@@ -839,10 +825,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/Graphx2LogisticRegression.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/Graphx2LogisticRegression.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="54" column="89" lean-forward="false" selection-start-line="54" selection-start-column="89" selection-end-line="54" selection-end-column="89" />
+          <folding>
+            <element signature="e#38#81#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -864,10 +853,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/PIC.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/PIC.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="41" column="74" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="74" />
+          <folding>
+            <element signature="e#38#73#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -885,14 +877,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/CommonAPI/Demo8_LPA.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo8_LPA.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/graphX2KNN.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/graphX2KNN.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="22" />
@@ -916,15 +908,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/GraphX2KnnLPA.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/GraphX2KnnLPA.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="244" column="37" lean-forward="false" selection-start-line="244" selection-start-column="37" selection-end-line="244" selection-end-column="37" />
+          <folding>
+            <element signature="e#38#59#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yago/yagoFacts.tsv" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/mageGraph.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/MageGraph.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
           <caret line="65" column="33" lean-forward="false" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
@@ -934,7 +929,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/removeSingleton.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/RemoveSingleton.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
@@ -980,21 +975,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ReadRDF.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/ReadRDF.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
           <folding>
             <element signature="e#49#106#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.3/spark-core_2.10-1.6.3-sources.jar!/org/apache/spark/SparkContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="387" column="89" lean-forward="false" selection-start-line="387" selection-start-column="85" selection-end-line="387" selection-end-column="89" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1006,7 +993,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/IndexedRDDCommonAPI.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/IndexedRDDCommonAPI.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
@@ -1016,7 +1003,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/SVDPP.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/graphX2Ml/SVDPP.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="29" />
@@ -1024,7 +1011,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/Isomorphism.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="34" column="66" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="66" />
@@ -1034,12 +1021,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/defectGraphOperation/ClusteringCoefficient.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        <state relative-caret-position="108">
+          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
           <folding>
             <element signature="e#49#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo4_Pregel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/main/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-674">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#33#72#0" expanded="true" />
+            <element signature="e#309#4695#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.3/spark-core_2.10-1.6.3-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="387" column="89" lean-forward="false" selection-start-line="387" selection-start-column="85" selection-end-line="387" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo5_TriangleRelation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="14" column="94" lean-forward="true" selection-start-line="14" selection-start-column="94" selection-end-line="14" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/commonAPI/Demo7_connectedComponents.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#38#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/optimization/Checkpointing.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="24" column="58" lean-forward="false" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+          <folding>
+            <element signature="e#41#85#0" expanded="true" />
           </folding>
         </state>
       </provider>
