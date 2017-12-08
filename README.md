@@ -22,3 +22,11 @@ org/training/spark/GraphX2Ml：基于图的机器学习案例，包括SVD++,PIC�
 org/training/spark/kaggle：联通组件案例
 
 org/training/spark/DefectGraphOperation：缺失的图操作案例
+
+## 数据下载地址
+
+**YAGO3**
+
+yagoTypes:http://resources.mpi-inf.mpg.de/yago-naga/yago3.1/yagoTypes.tsv.7z
+
+yagoFacts:http://resources.mpi-inf.mpg.de/yago-naga/yago3.1/yagoFacts.tsv.7z
