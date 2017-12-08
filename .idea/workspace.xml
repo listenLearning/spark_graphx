@@ -2,7 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d52cbb26-42d7-4f29-9248-0b9363b1e9ea" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/0.circles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/0.edges" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/0.egofeat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/0.feat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/0.featnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/107.circles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/107.edges" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/107.egofeat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/107.feat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/107.featnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1684.circles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1684.edges" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1684.egofeat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1684.feat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1684.featnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1912.circles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1912.edges" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1912.egofeat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1912.feat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1912.featnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3437.circles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3437.edges" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3437.egofeat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3437.feat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3437.featnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/348.circles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/348.edges" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/348.egofeat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/348.feat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/348.featnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3980.circles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3980.edges" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3980.egofeat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3980.feat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3980.featnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/414.circles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/414.edges" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/414.egofeat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/414.feat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/414.featnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/686.circles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/686.edges" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/686.egofeat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/686.feat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/686.featnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/698.circles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/698.edges" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/698.egofeat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/698.feat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/698.featnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,20 +68,8 @@
       <file leaf-file-name="removeSingleton.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/removeSingleton.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="0">
               <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-              <folding>
-                <element signature="e#49#93#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mageGraph.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/mageGraph.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="65" column="33" lean-forward="false" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
               <folding>
                 <element signature="e#49#93#0" expanded="true" />
               </folding>
@@ -75,13 +114,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Isomorphism.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Isomorphism.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-34">
               <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <element signature="e#49#103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClusteringCoefficient.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding>
+                <element signature="e#49#110#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,7 +161,7 @@
       <file leaf-file-name="SparkContext.scala" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.3/spark-core_2.10-1.6.3-sources.jar!/org/apache/spark/SparkContext.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5525">
+            <state relative-caret-position="34">
               <caret line="387" column="89" lean-forward="false" selection-start-line="387" selection-start-column="85" selection-end-line="387" selection-end-column="89" />
               <folding />
             </state>
@@ -195,6 +246,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ReadRDF.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/IndexedRDDCommonAPI.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala" />
       </list>
     </option>
   </component>
@@ -268,37 +320,7 @@
             <path>
               <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="DefectGraphOperation" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
@@ -325,17 +347,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\spark_graphx\RelatedPapers" />
-      <recent name="F:\spark_graphx\Data" />
-      <recent name="F:\learn\spark_graphx\Data" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\spark_graphx\facebook" />
       <recent name="F:\spark_graphx\yago" />
       <recent name="F:\spark_graphx\RelatedPapers" />
       <recent name="F:\spark_graphx\img" />
       <recent name="F:\spark_graphx\Data" />
-      <recent name="F:\learn\spark_graphx\egonets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\spark_graphx\RelatedPapers" />
+      <recent name="F:\spark_graphx\Data" />
+      <recent name="F:\learn\spark_graphx\Data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -597,15 +619,16 @@
       <workItem from="1512353650069" duration="17896000" />
       <workItem from="1512440262398" duration="34000" />
       <workItem from="1512527577978" duration="27075000" />
-      <workItem from="1512701486981" duration="550000" />
+      <workItem from="1512701486981" duration="1905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214945000" />
+    <option name="totallyTimeSpent" value="216300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -620,7 +643,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21406959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21406959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -663,14 +686,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/main/Demo3.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/main/Graphx.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/main/test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2748">
@@ -930,7 +945,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/removeSingleton.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="0">
           <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
             <element signature="e#49#93#0" expanded="true" />
@@ -984,14 +999,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.3/spark-core_2.10-1.6.3-sources.jar!/org/apache/spark/SparkContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5525">
-          <caret line="387" column="89" lean-forward="false" selection-start-line="387" selection-start-column="85" selection-end-line="387" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/IndexedRDDCommonAPI.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -1008,6 +1015,32 @@
           <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
           <folding>
             <element signature="e#49#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.3/spark-core_2.10-1.6.3-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="387" column="89" lean-forward="false" selection-start-line="387" selection-start-column="85" selection-end-line="387" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook/0.circles">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="e#49#110#0" expanded="true" />
           </folding>
         </state>
       </provider>
