@@ -2,58 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d52cbb26-42d7-4f29-9248-0b9363b1e9ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/0.circles" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/0.edges" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/0.egofeat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/0.feat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/0.featnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/107.circles" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/107.edges" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/107.egofeat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/107.feat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/107.featnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1684.circles" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1684.edges" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1684.egofeat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1684.feat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1684.featnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1912.circles" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1912.edges" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1912.egofeat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1912.feat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/1912.featnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3437.circles" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3437.edges" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3437.egofeat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3437.feat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3437.featnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/348.circles" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/348.edges" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/348.egofeat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/348.feat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/348.featnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3980.circles" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3980.edges" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3980.egofeat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3980.feat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/3980.featnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/414.circles" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/414.edges" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/414.egofeat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/414.feat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/414.featnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/686.circles" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/686.edges" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/686.egofeat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/686.feat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/686.featnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/698.circles" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/698.edges" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/698.egofeat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/698.feat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook/698.featnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,7 +55,7 @@
       <file leaf-file-name="IndexedRDDCommonAPI.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/IndexedRDDCommonAPI.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
+            <state relative-caret-position="397">
               <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
               <folding>
                 <element signature="e#49#106#0" expanded="true" />
@@ -117,8 +67,8 @@
       <file leaf-file-name="Isomorphism.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="119">
+              <caret line="34" column="66" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="66" />
               <folding>
                 <element signature="e#49#103#0" expanded="true" />
               </folding>
@@ -126,11 +76,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="SVDPP.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/SVDPP.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ClusteringCoefficient.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="329">
+              <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
               <folding>
                 <element signature="e#49#110#0" expanded="true" />
               </folding>
@@ -320,7 +280,46 @@
             <path>
               <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
-              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="DefectGraphOperation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark_graphx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="GraphX2Ml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark_graphx" type="b2602c69:ProjectViewProjectNode" />
@@ -372,7 +371,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Isomorphism">
+  <component name="RunManager" selected="Application.ClusteringCoefficient">
+    <configuration name="ClusteringCoefficient" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.training.spark.DefectGraphOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.training.spark.DefectGraphOperation.ClusteringCoefficient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spark_graphx" />
+      <envs />
+    </configuration>
     <configuration name="IndexedRDDApi" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -530,39 +548,20 @@
       <module name="spark_graphx" />
       <envs />
     </configuration>
-    <configuration name="removeSingleton" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.training.spark.DefectGraphOperation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="org.training.spark.DefectGraphOperation.removeSingleton" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spark_graphx" />
-      <envs />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.removeSingleton" />
-      <item index="1" class="java.lang.String" itemvalue="Application.mageGraph" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ReadRDF" />
-      <item index="3" class="java.lang.String" itemvalue="Application.IndexedRDDApi" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Isomorphism" />
+      <item index="0" class="java.lang.String" itemvalue="Application.mageGraph" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ReadRDF" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IndexedRDDApi" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Isomorphism" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ClusteringCoefficient" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Isomorphism" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReadRDF" />
-        <item index="2" class="java.lang.String" itemvalue="Application.IndexedRDDApi" />
-        <item index="3" class="java.lang.String" itemvalue="Application.mageGraph" />
-        <item index="4" class="java.lang.String" itemvalue="Application.removeSingleton" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ClusteringCoefficient" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Isomorphism" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReadRDF" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IndexedRDDApi" />
+        <item index="4" class="java.lang.String" itemvalue="Application.mageGraph" />
       </list>
     </recent_temporary>
   </component>
@@ -619,19 +618,19 @@
       <workItem from="1512353650069" duration="17896000" />
       <workItem from="1512440262398" duration="34000" />
       <workItem from="1512527577978" duration="27075000" />
-      <workItem from="1512701486981" duration="1905000" />
+      <workItem from="1512701486981" duration="4485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216300000" />
+    <option name="totallyTimeSpent" value="218880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38548386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -639,7 +638,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28225806" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33509833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60645163" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.60645163" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -655,7 +654,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38548386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -820,13 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/SVDPP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="54" column="107" lean-forward="true" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/LAD2ML.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-221">
@@ -938,7 +929,7 @@
         <state relative-caret-position="1071">
           <caret line="65" column="33" lean-forward="false" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
           <folding>
-            <element signature="e#49#93#0" expanded="true" />
+            <element signature="e#49#93#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -999,26 +990,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/IndexedRDDCommonAPI.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding>
-            <element signature="e#49#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="e#49#103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.3/spark-core_2.10-1.6.3-sources.jar!/org/apache/spark/SparkContext.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1035,10 +1006,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/IndexedRDDCommonAPI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="e#49#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/GraphX2Ml/SVDPP.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/Isomorphism.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="34" column="66" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="66" />
+          <folding>
+            <element signature="e#49#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/org/training/spark/DefectGraphOperation/ClusteringCoefficient.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state relative-caret-position="329">
+          <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
           <folding>
             <element signature="e#49#110#0" expanded="true" />
           </folding>

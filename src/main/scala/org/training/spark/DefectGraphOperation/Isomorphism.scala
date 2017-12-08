@@ -30,7 +30,7 @@ object Isomorphism {
       .map(_._1)
 
     // 查找没有记录在Wikipedia上的加拿大最有可能的出口商品
-    val vm = vertexMap(gs)
+    val vm: Map[VertexId, (Array[Double], Array[Double], Double, Double)] = vertexMap(gs)
     val cid: VertexId = gf.vertices.filter(_._2.equals("<Canada>")).first._1
     val r: RDD[(VertexId, Double)] = vr.map(v => (v, pred(vm, mean, cid, v)))
     val maxKey = r.max()(new Ordering[Tuple2[VertexId, Double]]() {
@@ -39,18 +39,31 @@ object Isomorphism {
       }
     })._1
     gf.vertices.filter(_._1 == maxKey).collect.foreach(println)
-
   }
 
-  // map()--友好的SVD++预测函数和工具
+  /**
+    * 友好的SVD++预测函数和工具,这个pred函数使用scala Map作为输入，而不是图类型
+    *
+    * @param v 图的再处理结果
+    * @param mean 数据集的平均打分情况
+    * @param u 源的VertexId
+    * @param i 目标的VertexId
+    * @return Double
+    */
   def pred(v: Map[VertexId, (Array[Double], Array[Double], Double, Double)],
-           mean: Double, u: Long, i: Long) = {
+           mean: Double, u: Long, i: Long): Double = {
     val user = v.getOrElse(u, (Array(0.0), Array(0.0), 0.0, 0.0))
     val item = v.getOrElse(i, (Array(0.0), Array(0.0), 0.0, 0.0))
     mean + user._3 + item._3 +
       item._1.zip(user._2).map(x => x._1 * x._2).reduce(_ + _)
   }
 
+  /**
+    * 将SVD++输出图转换成为scala Map类型
+    *
+    * @param g
+    * @return Map[VertexId, (Array[Double], Array[Double], Double, Double)]
+    */
   def vertexMap(g: Graph[(Array[Double], Array[Double],
     Double, Double), Double]): Map[VertexId, (Array[Double], Array[Double], Double, Double)] = {
     g.vertices.collect.map(v => v._1 -> v._2).toMap

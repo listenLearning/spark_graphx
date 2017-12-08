@@ -13,21 +13,28 @@ object ClusteringCoefficient {
 
   /**
     * 全局聚类系数
+    * 输出返回全局聚类系数
     *
     * @param g
     * @tparam VD
     * @tparam ED
-    * @return
+    * @return Double
     */
   def clusteringCoefficient[VD: ClassTag, ED: ClassTag](g: Graph[VD, ED]): Double = {
     val numTriplets =
+    // 使用aggregateMessages进行一次迭代，允许每个顶点对它的所有邻居顶点列表进行计算
+    // 使用Scala Set，自动过滤重复边
       g.aggregateMessages[Set[VertexId]](
         et => {
           et.sendToSrc(Set(et.dstId))
           et.sendToDst(Set(et.srcId))
         },
+        // 进行集合的合并
         (a, b) => a ++ b
-      ).map(x => {
+      )
+        // 去除图中的自环(边的其实和结束是同一顶点)
+        .map(x => {
+        // (x._2 - x._1)求集合差，从定点集x._2中去除了也包含在顶点集x._1中的顶点
         val s = (x._2 - x._1).size;
         s * (s - 1) / 2
       }).reduce(_ + _)
@@ -47,7 +54,7 @@ object ClusteringCoefficient {
       })
     val g2: Graph[Boolean, Int] = g.outerJoinVertices(feat)((_, _, u) => u.get)
 
-    clusteringCoefficient(g2)
+    println(clusteringCoefficient(g2))
     clusteringCoefficient(g2.subgraph(_ => true, (_, vd) => vd))
     clusteringCoefficient(g2.subgraph(_ => true, (_, vd) => !vd))
   }
